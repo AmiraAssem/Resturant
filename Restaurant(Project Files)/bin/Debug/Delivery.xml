@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<ArrayOfDeliivery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Deliivery>
+    <Area_Code>Giza</Area_Code>
+    <ListOfDeliverBoysID>
+      <DeliverBoysID>
+        <ID>Amira_1</ID>
+        <ID>Fares_1</ID>
+      </DeliverBoysID>
+    </ListOfDeliverBoysID>
+  </Deliivery>
+  <Deliivery>
+    <Area_Code>Helwan</Area_Code>
+    <ListOfDeliverBoysID>
+      <DeliverBoysID>
+        <ID>Seif_1</ID>
+        <ID>Ragab_1</ID>
+      </DeliverBoysID>
+    </ListOfDeliverBoysID>
+  </Deliivery>
+  <Deliivery>
+    <Area_Code>Cairo</Area_Code>
+    <ListOfDeliverBoysID>
+      <DeliverBoysID>
+        <ID>Ahmed_1</ID>
+        <ID>Aya_1</ID>
+      </DeliverBoysID>
+    </ListOfDeliverBoysID>
+  </Deliivery>
+</ArrayOfDeliivery>

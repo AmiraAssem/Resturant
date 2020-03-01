@@ -1,0 +1,88 @@
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).exe.config
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).exe
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).pdb
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.LoginForm.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Properties.Resources.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.GenerateResource.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.CoreCompileInputs.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).exe
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).pdb
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UC_Login.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UC_signup.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.CopyComplete
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Home.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Home_user.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\MaterialSkin.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Menu_customer.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.User_cart.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Interop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.ResolveComReference.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Interop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Menu_Admin.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Customers.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Delivery.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Delivery_boy.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.add_orderToCart.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.offers.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Edit_menu.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Add_DeliveryBoy.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UserPhoneNumber.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.homeimage.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Soup.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Salads.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Pizza.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Sandwiches.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.meals.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Dessert.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Cocktails.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Offers_Admin.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csprojAssemblyReference.cache
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Order.resources
+C:\Users\EGYPT_LAPTOP\source\repos\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Chart.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).exe.config
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).exe
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Restaurant(Project Files).pdb
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\MaterialSkin.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\Interop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csprojAssemblyReference.cache
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Interop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.ResolveComReference.cache
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Add_DeliveryBoy.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.add_orderToCart.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Chart.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Cocktails.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Customers.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Delivery.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Delivery_boy.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Dessert.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Edit_menu.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.homeimage.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Home.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Home_user.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.LoginForm.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.meals.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Menu_Admin.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Menu_customer.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.offers.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Offers_Admin.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Order.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Pizza.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Properties.Resources.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Salads.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Sandwiches.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.Soup.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UC_Login.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UC_signup.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.UserPhoneNumber.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant_Project_Files_.User_cart.resources
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.GenerateResource.cache
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.CoreCompileInputs.cache
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).csproj.CopyComplete
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).exe
+C:\Users\EGYPT_LAPTOP\Desktop\Restaurant(Project Files)\Restaurant(Project Files)\obj\Debug\Restaurant(Project Files).pdb

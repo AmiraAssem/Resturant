@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfCustomerDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomerDetails>
+    <phone>011</phone>
+    <NumOfLastOrders>4</NumOfLastOrders>
+    <TotalPurchased>743.25</TotalPurchased>
+    <Discount>15%</Discount>
+  </CustomerDetails>
+  <CustomerDetails>
+    <phone>012</phone>
+    <NumOfLastOrders>7</NumOfLastOrders>
+    <TotalPurchased>963.6</TotalPurchased>
+    <Discount>25%</Discount>
+  </CustomerDetails>
+  <CustomerDetails>
+    <phone>010</phone>
+    <NumOfLastOrders>5</NumOfLastOrders>
+    <TotalPurchased>871.5</TotalPurchased>
+    <Discount>15%</Discount>
+  </CustomerDetails>
+  <CustomerDetails>
+    <phone>015</phone>
+    <NumOfLastOrders>4</NumOfLastOrders>
+    <TotalPurchased>1034.25</TotalPurchased>
+    <Discount>15%</Discount>
+  </CustomerDetails>
+  <CustomerDetails>
+    <phone>121</phone>
+    <NumOfLastOrders>1</NumOfLastOrders>
+    <TotalPurchased>156</TotalPurchased>
+    <Discount>0</Discount>
+  </CustomerDetails>
+</ArrayOfCustomerDetails>
